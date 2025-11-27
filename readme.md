@@ -407,17 +407,16 @@ mpicc --version
 - Modify features in `src/ai_selector.py`
 - Update heuristic fallback in `_heuristic_fallback()`
 
-## 📝 License
 
-[Specify your license here]
 
 ## 👥 Authors
 
-[Your Names/Institution]
+Aditya Sharma
+Ashwin Gundalie
 
 ## 📅 Date
 
-2024
+27 November 2025
 
 ## 🙏 Acknowledgments
 
