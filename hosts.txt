@@ -1,0 +1,7 @@
+# MPI Host Configuration
+# Format: hostname slots=<cores>
+
+localhost slots=16
+# node1 slots=8
+# node2 slots=8
+# Add more hosts if running on cluster

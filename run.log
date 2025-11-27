@@ -1,0 +1,32 @@
+=== ASTP Blockchain Simulator ===
+Nodes: 6
+Duration: 5.00 seconds
+==================================
+
+Node 0: Zone 0 (local rank 0/2)
+Initialization complete. Starting simulation...
+
+[0.00s] Phase transition: 1 -> 0
+[1.01s] Progress: 50 local txs created, 50 finalized
+[2.01s] Progress: 95 local txs created, 95 finalized
+[3.01s] Progress: 148 local txs created, 148 finalized
+[4.03s] Progress: 207 local txs created, 207 finalized
+Rank 0: loop complete at 5.00s (target 5.00s)
+Rank 3: loop complete at 5.00s (target 5.00s)
+Rank 4: loop complete at 5.00s (target 5.00s)
+Rank 1: loop complete at 5.00s (target 5.00s)
+Rank 5: loop complete at 5.00s (target 5.00s)
+Rank 2: loop complete at 5.00s (target 5.00s)
+
+=== Simulation Complete ===
+Node 0: Created 262 txs, Finalized 262 txs, TPS=52.40, Avg Latency=4.99 ms
+
+=== AGGREGATE RESULTS ===
+Total Network TPS: 331.18
+Total Finalized Transactions: 1656
+========================
+Node 2: Created 276 txs, Finalized 276 txs, TPS=55.20, Avg Latency=4.58 ms
+Node 4: Created 290 txs, Finalized 290 txs, TPS=58.00, Avg Latency=5.41 ms
+Node 5: Created 290 txs, Finalized 290 txs, TPS=58.00, Avg Latency=5.53 ms
+Node 3: Created 276 txs, Finalized 276 txs, TPS=55.20, Avg Latency=7.19 ms
+Node 1: Created 262 txs, Finalized 262 txs, TPS=52.40, Avg Latency=7.16 ms
