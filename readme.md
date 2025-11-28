@@ -412,7 +412,7 @@ mpicc --version
 ## 👥 Authors
 
 Aditya Sharma
-Ashwin Gundalie
+Ashwin Gundale
 
 ## 📅 Date
 
